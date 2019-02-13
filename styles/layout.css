@@ -402,9 +402,6 @@ table a, #comments a{background-color:inherit;}
 #firstOverlay a{
 	color: silver;
 }
-#services p{
-	text-align: justify;
-}
 #hidden {
 	display: none;
 }
